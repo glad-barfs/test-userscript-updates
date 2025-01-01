@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Test change google image to MD
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      4.0
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.google.com/
@@ -14,5 +14,5 @@
 (function () {
     'use strict';
 
-    document.querySelector("#hplogo").src = "https://mangadex.org/img/brand/mangadex-logo.svg"
+    document.querySelector("#hplogo").src = "https://mangadex.org/img/brand/mangadex-wordmark.svg"
 })();
