@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Test change google image to MD
 // @namespace    http://tampermonkey.net/
-// @version      2025-01-01
+// @version      1.0
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.google.com/
